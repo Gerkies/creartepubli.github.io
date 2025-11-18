@@ -75,17 +75,10 @@ body {
     list-style: none;
 }
 
-
 .nav__links {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
-}
-
-.nav__linksT {
-    color: var(--color-primary);
-    text-decoration: underline;
-    font-weight: 700;
 }
 
 .nav__menu {
